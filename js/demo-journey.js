@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Home wiring, panel work, and residential electrical across Grand Terrace and the Inland Empire. You get a fixed itemised quote before we start, Gary as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Home wiring and panel work across Grand Terrace and the Inland Empire. Gary looks at the house first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Panel work and wiring,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Old wiring and panels,<br>quoted <em>before</em> we start.';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Residential electrical (written programme)';
+          serviceFirst.textContent = 'Home rewiring (written price)';
         }
       }
     }
