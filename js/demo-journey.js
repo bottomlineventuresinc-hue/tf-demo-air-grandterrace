@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Home wiring and panel work across Grand Terrace and the Inland Empire. Gary looks at the house first and puts the price in writing.';
+            'Home wiring and panel work in Grand Terrace. Gary looks at the house first and puts the price in writing.';
         }
       }
     },
